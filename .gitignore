@@ -1,0 +1,8 @@
+trained_model/
+*.h5
+*.keras
+*.pth
+*.zip
+__pycache__/
+venv/
+.ipynb_checkpoints/
